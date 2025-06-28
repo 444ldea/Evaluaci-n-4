@@ -1,4 +1,3 @@
-r
 MAX_STOCK = 20  # stock total disponible
 
 reservas = {}  # diccionario
